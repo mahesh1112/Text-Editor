@@ -1,1 +1,0 @@
-img = cv.cvtColor(img, cv.COLOR_BGR2RGB)
